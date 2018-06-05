@@ -107,7 +107,7 @@ label{
   border-color: #4665C9;
   border-radius: 5px;
   text-align: left;
-  top: 12vh;
+  top: 3vh;
   display: flex;
   flex-direction: column;
   width: 80%;
@@ -146,7 +146,7 @@ label{
   #coin-info-container{
     padding: .5em;
     padding-right: 1.5em;
-    top: 7vh;
+    top: 2vh;
     width: 90%;
   }
 
