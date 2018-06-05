@@ -1,7 +1,7 @@
 # Bit Teller
 Bit Teller uses the Blockhain API to display info on Bitcoin. It allows for address-based searches and returns transactions and coin info. It also establishes a websocket connection to listen for incoming/ unconfirmed transactions.
 
-![screenshot][https://ibb.co/hCSgiT]
+![screenshot][screenshot.png]
 
 
 ## Getting Started
