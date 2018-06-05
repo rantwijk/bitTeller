@@ -1,11 +1,10 @@
-# Bit Teller
-Bit Teller uses the Blockhain API to display info on Bitcoin. It allows for address-based searches and returns transactions and coin info. It also establishes a websocket connection to listen for incoming/ unconfirmed transactions.
+# Bitcoin Teller
+Bitcoin Teller uses the Blockhain API to display info on Bitcoin. It allows for address-based searches and returns transactions and coin info. It also establishes a websocket connection to listen for incoming/ unconfirmed transactions.
 
 ![screenshot][screenshot.png]
 
-
 ## Getting Started
-Follow the instructions below to run Bit Teller on your local machine for development and testing purposes.
+Follow the instructions below to run Bitcoin Teller on your local machine for development and testing purposes.
 
 ### Install
 
@@ -35,4 +34,4 @@ npm run build
 * [Kat Ballo](https://github.com/ketikat)
 
 ## Credits
-Icon made by https://www.flaticon.com/authors/good-ware, from https://www.flaticon.com/ and is licensed by http://creativecommons.org/licenses/by/3.0/
+Icon made by [Good Ware](https://www.flaticon.com/authors/good-ware), from [flaticon](https://www.flaticon.com) and is licensed by [creative commons](http://creativecommons.org/licenses/by/3.0)

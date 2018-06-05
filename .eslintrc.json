@@ -1,26 +1,5 @@
-// {
-//   "extends": ["prettier-standard", "eslint:recommended",
-//   "plugin:react/recommended"],
-//   "parser": "babel-eslint",
-//   "rules": {
-  // "react/prop-types": disabled
-//     "quotes": ["error", "single"],
-//     "jsx-quotes": ["error", "prefer-double"],
-//     "semi": [
-//       1,
-//       "never"
-//     ],
-//     "comma-dangle": ["error", "never"],
-//     "no-extra-semi": "error",
-//     "class-methods-use-this": 0
-//   }
-// }
-
-
-
 {
   "extends": ["standard",
-    // "standard-react"
     "plugin:react/recommended"
   ],
 

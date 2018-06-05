@@ -49,6 +49,7 @@ h3{
 
 h1{
     margin-bottom: -.2em;
+    font-size: 45px;
 }
 
 label{
@@ -72,7 +73,8 @@ label{
   font-family: 'Open Sans', sans-serif;
   font-style: italic;
   text-align: center;
-  font-size: 12px;
+  font-size: 16px;
+  margin-bottom: 2em;
 }
 
 #filler-text{
@@ -95,6 +97,10 @@ label{
 
 #app-container label{
   margin: .5em;
+  margin-right: .5em;
+}
+
+#app-container p{
   margin-right: .5em;
 }
 
