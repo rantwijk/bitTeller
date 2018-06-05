@@ -1,0 +1,31 @@
+{
+  "name": "bitcoin-info",
+  "version": "1.0.0",
+  "description": "An app that provides you with bitcoin info based on an address",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "start-dev": "webpack -w & nodemon server.js"
+  },
+  "author": "kat ballo",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "0.18.0",
+    "babel-preset-env": "^1.6.1",
+    "chalk": "^2.3.0",
+    "express": "^4.16.2",
+    "morgan": "^1.9.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-timestamp": "4.4.0",
+    "style-loader": "^0.19.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-react": "^6.24.1",
+    "css-loader": "^0.28.9",
+    "webpack": "^3.10.0"
+  }
+}
