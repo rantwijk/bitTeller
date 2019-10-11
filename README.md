@@ -1,5 +1,5 @@
 # Bitcoin Teller
-Bitcoin Teller uses the Blockhain API to display info on Bitcoin. It allows for address-based searches and returns transactions and coin info. It also establishes a websocket connection to listen for incoming/ unconfirmed transactions.
+Bitcoin Teller uses the Blockchain API to display info on Bitcoin. It allows for address-based searches and returns transactions and coin info. It also establishes a websocket connection to listen for incoming/ unconfirmed transactions.
 
 ## Deployed at
 https://bit-teller.firebaseapp.com
